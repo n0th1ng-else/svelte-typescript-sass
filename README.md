@@ -1,9 +1,16 @@
-svelte-test
+svelte-typescript-sass
 =====================
 
-Svelte boilerplate with a nested components example.
+Svelte boilerplate.
 
-### Try the example
+# Inside the package
+- Svelte 3+
+- Webpack 4+
+- Typescript 3+
+- Sass processor for styles
+- Babel 
+
+### Easy to develop
 
 ```
 npm install
